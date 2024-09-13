@@ -1,0 +1,70 @@
+<mxfile host="Electron" modified="2024-02-27T08:36:57.480Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="YHMIQG5wGfdIUT6Jh9Ib" version="23.0.2" type="device">
+  <diagram name="Seite-1" id="6-l7aiibEa_61dGoq41B">
+    <mxGraphModel dx="240" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pvYRUeNBpfxUNBlyPRY0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="560" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="pvYRUeNBpfxUNBlyPRY0-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="560" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="pvYRUeNBpfxUNBlyPRY0-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="310" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvYRUeNBpfxUNBlyPRY0-4" value="Initialisierung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="238" y="311.25" width="80" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pvYRUeNBpfxUNBlyPRY0-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="310" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvYRUeNBpfxUNBlyPRY0-6" value="Planung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="311.25" width="80" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pvYRUeNBpfxUNBlyPRY0-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="408" y="310" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvYRUeNBpfxUNBlyPRY0-8" value="Realisierung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="418" y="311.25" width="80" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pvYRUeNBpfxUNBlyPRY0-9" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498" y="310" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvYRUeNBpfxUNBlyPRY0-10" value="Einführung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="508" y="311.25" width="80" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pvYRUeNBpfxUNBlyPRY0-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="588" y="310" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvYRUeNBpfxUNBlyPRY0-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="49.8" y="270" as="sourcePoint" />
+            <mxPoint x="49.8" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvYRUeNBpfxUNBlyPRY0-13" value="Projektfreigabe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pvYRUeNBpfxUNBlyPRY0-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="232.8" y="280" as="sourcePoint" />
+            <mxPoint x="232.8" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvYRUeNBpfxUNBlyPRY0-15" value="Projektauftrag" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="203" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pvYRUeNBpfxUNBlyPRY0-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="322.8" y="280" as="sourcePoint" />
+            <mxPoint x="322.8" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvYRUeNBpfxUNBlyPRY0-17" value="Projektfreigabe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="293" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

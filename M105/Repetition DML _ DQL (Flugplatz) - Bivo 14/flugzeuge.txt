@@ -1,0 +1,7 @@
+Kennzeichen/Hersteller/Typ/Länge/Spannweite
+HB-ABC/Pilatus/P-1/6.9/9.2
+HB-FCB/Pilatus/P-3/8.75/10.4
+HB-RYE/Pilatus/PC-11/6.57/15
+HB-RCJ/Pilatus/PC-21/11.23/9.11
+HB-ISL/Pilatus/PC-21/11.23/9.11
+HB-WLX/Pilatus/PC-12/14.4/16.28

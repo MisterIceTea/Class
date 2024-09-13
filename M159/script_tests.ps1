@@ -1,0 +1,1 @@
+﻿import-csv export_Kunden_DE_H.csv -Delimiter ";" | Where-Object Strasse -like "*�*" | ft
